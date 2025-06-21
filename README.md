@@ -137,7 +137,7 @@ const expertise = {
 
 ---
 
-## 📫 Professional Contact
+## 📫 Contact
 
 <div align="center">
 
