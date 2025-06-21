@@ -1,4 +1,4 @@
-# 🚀 Hey there, I'm Lukas Jacqueline (phinolex)
+# 🚀 Hey there, I'm Lukas (phinolex)
 
 <div align="center">
   
